@@ -1,3 +1,3 @@
 # Embedded-System-Design
 
-This Repository Has My Work On Embedded Sytems that i did in Proteus Design Suite
+This repository has my work on Embedded sytems that i did in Proteus design suite
